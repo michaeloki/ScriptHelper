@@ -1,0 +1,9 @@
+{
+  "name": "com.inspirati.scripthelper",
+  "displayName": "ScriptHelperJs",
+  "version": "0.0.1",
+  "description": "This library requires jQuery to work. The functions in this library will minimise the number of codes you need to write.",
+  "main": "default.js",
+  "author": "Global Inspirati Technology Inc.",
+  "license": "MIT"
+  }
